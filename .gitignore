@@ -1,0 +1,8 @@
+# .git ignote files for Mplus
+# Should ensure only .inp files are saved.
+
+*.log
+*.dgm
+*.out
+*.txt
+*.dat
