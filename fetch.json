@@ -1,0 +1,12 @@
+{
+	"files":
+	{
+		"gitignore": "https://raw.githubusercontent.com/pdparker/mplusinputexample/master/.gitignore",
+		"ModMed": "https://raw.githubusercontent.com/pdparker/mplusinputexample/master/modMedwithPlot.inp",
+		"regression": "https://raw.githubusercontent.com/pdparker/mplusinputexample/master/simpleRegression.inp"
+	},
+	"packages":
+	{
+		"MplusexampleFolder": "https://github.com/pdparker/mplusinputexample/archive/master.zip"
+	}
+}
