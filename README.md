@@ -15,14 +15,14 @@ Install both the mplus and nettuts-fetch packages using package control `shift+c
 
 After that you need to set up Nettuts-Fetch to get mplus snippets:
 
-1. First `shift+command+p` then start typing fetch: manage
-2. Copy and paste the information from [here](https://raw.githubusercontent.com/pdparker/mplusinputexample/master/fetch.json) and `command+s` save. *NOTE* If you use Nettuts-Fetch already just integrate the this info into your current fetch file.
+1. First `shift+command+p` then start typing `fetch: manage`
+2. Copy and paste the information from [here](https://raw.githubusercontent.com/pdparker/mplusinputexample/master/fetch.json) and `command+s` save. *NOTE* If you use Nettuts-Fetch already just integrate the this info into your current fetch file or you will just mess up your existing fetch system.
 
 Usage
 --------
-To fetch a file press `shift+command+p` and type fetch: file and select the input file you want. This will load the mplus snippet then type `shift+command+p` and begin typing ss: mplus input and select.
+To fetch a file press `shift+command+p` and type `fetch: file` and select the input file you want. This will load the mplus snippet then type `shift+command+p` and begin typing `ss: mplus input` and select.
 
-If you want to download all examples (not sure why you would want to), press `shift+command+p` and type fetch: package and select MplusexampleFolder. 
+If you want to download all examples (not sure why you would want to), press `shift+command+p` and type `fetch: package` and select MplusexampleFolder. 
 
 Participate
 ---------
