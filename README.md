@@ -1,8 +1,6 @@
 Mplus Snippets
 ====================
 
-[TOC]
-
 The Mplus plugin for [Sublime Text](https://github.com/bkeller2/Mplus) is amazing. So to is [Nettuts-Fetch](https://github.com/weslly/Nettuts-Fetch). So why not put the two together?! Here you will find:
 
 1. Example Mplus input files taken from the [mplus user's guide](https://www.statmodel.com/ugexcerpts.shtml).
@@ -22,7 +20,9 @@ After that you need to set up Nettuts-Fetch to get mplus snippets:
 
 Usage
 --------
-To fetch a file press `shift+command+p` and type fetch: file and select the input file you want. If you want to download all examples (not sure why you would want to), press `shift+command+p` and type fetch: package and select MplusexampleFolder. 
+To fetch a file press `shift+command+p` and type fetch: file and select the input file you want. This will load the mplus snippet then type `shift+command+p` and begin typing ss: mplus input and select.
+
+If you want to download all examples (not sure why you would want to), press `shift+command+p` and type fetch: package and select MplusexampleFolder. 
 
 Participate
 ---------
